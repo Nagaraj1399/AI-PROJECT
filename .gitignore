@@ -1,0 +1,27 @@
+# Environment variables and API keys
+.env
+
+# Large raw datasets
+SHL_AI_Intern_Assignment.pdf
+shl_product_catalog.json
+sample_conversations.zip
+sample_conversations/
+
+# Diagnostic and development scripts
+inspect_*.py
+find_*.py
+download_*.py
+read_*.py
+search_*.py
+extract_exact_trace_turns.py
+chrome_downloads.py
+test_gemini.py
+
+# Python cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/

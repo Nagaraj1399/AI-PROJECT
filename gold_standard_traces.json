@@ -1,0 +1,906 @@
+{
+  "we need a solution for senior leadership.": {
+    "filename": "C1.md",
+    "turns": [
+      {
+        "user": "We need a solution for senior leadership.",
+        "reply": "Happy to help narrow that down. Who is this meant for?",
+        "recommendations": [],
+        "end_of_conversation": false
+      },
+      {
+        "user": "The pool consists of CXOs, director-level postions; people with more than 15 years of experience.",
+        "reply": "For such roles, the OPQ32r is the right instrument \u2014 it measures 32 workplace behaviour dimensions including strategic thinking, influencing style, and leadership. One question before I commit to a report format:is this for a newly created position, or developmental feedback for an executive already in role?",
+        "recommendations": [],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Selection \u2014 comparing candidates against a leadership benchmark.",
+        "reply": "For selection with a leadership benchmark, the instrument plus two relevant report formats:",
+        "recommendations": [
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          },
+          {
+            "name": "OPQ Universal Competency Report 2.0",
+            "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+            "test_type": "P"
+          },
+          {
+            "name": "OPQ Leadership Report",
+            "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Perfect, that's what we need.",
+        "reply": "The OPQ32r is what your candidates complete \u2014 the UCF and Leadership Reports are the outputs you receive, both runnable from a single administration.",
+        "recommendations": [
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          },
+          {
+            "name": "OPQ Universal Competency Report 2.0",
+            "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+            "test_type": "P"
+          },
+          {
+            "name": "OPQ Leadership Report",
+            "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": true
+      }
+    ]
+  },
+  "we run a graduate management trainee scheme. we need a full battery - cognitive, personality, and situational judgement. all recent graduates.": {
+    "filename": "C10.md",
+    "turns": [
+      {
+        "user": "We run a graduate management trainee scheme. We need a full battery \u2014 cognitive, personality, and situational judgement. All recent graduates.",
+        "reply": "For a graduate management trainee battery covering all three dimensions:",
+        "recommendations": [
+          {
+            "name": "SHL Verify Interactive G+",
+            "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+            "test_type": "A"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          },
+          {
+            "name": "Graduate Scenarios",
+            "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+            "test_type": "B"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "But can you remove the OPQ32r and replace it with something shorter? Candidates complain it takes too long.",
+        "reply": "",
+        "recommendations": [],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Drop the OPQ. Final list: Verify G+ and Graduate Scenarios.",
+        "reply": "Updated. OPQ32r removed. Final shortlist confirmed.",
+        "recommendations": [
+          {
+            "name": "SHL Verify Interactive G+",
+            "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+            "test_type": "A"
+          },
+          {
+            "name": "Graduate Scenarios",
+            "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+            "test_type": "B"
+          }
+        ],
+        "end_of_conversation": true
+      }
+    ]
+  },
+  "i'm hiring a senior rust engineer for high-performance networking infrastructure. what assessments should i use?": {
+    "filename": "C2.md",
+    "turns": [
+      {
+        "user": "I'm hiring a senior Rust engineer for high-performance networking infrastructure. What assessments should I use?",
+        "reply": "SHL's catalog doesn't currently include a Rust-specific knowledge test. The closest fit for a senior IC is Smart Interview Live Coding \u2014 an adaptive live-coding interview where your panel can frame Rust-specific tasks directly. Linux Programming covers systems depth, and Networking and Implementation covers the infrastructure dimension. Want me to build a shortlist from these?",
+        "recommendations": [],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Yes, go ahead. Should I also add a cognitive test for this level?",
+        "reply": "Yes \u2014 Verify G+ is appropriate for senior technical candidates, covering inductive, numerical, and deductive reasoning in a single adaptive test. Full shortlist:\n\nI'm including OPQ32r by default as the personality component for a senior IC hire \u2014 say the word if you'd rather drop it.",
+        "recommendations": [
+          {
+            "name": "Smart Interview Live Coding",
+            "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+            "test_type": "K"
+          },
+          {
+            "name": "Linux Programming (General)",
+            "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+            "test_type": "K"
+          },
+          {
+            "name": "Networking and Implementation (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "SHL Verify Interactive G+",
+            "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+            "test_type": "A"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "That works. Thanks.",
+        "reply": "Note there's no Rust-specific test in the catalog \u2014 worth revisiting if that changes.",
+        "recommendations": [
+          {
+            "name": "Smart Interview Live Coding",
+            "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+            "test_type": "K"
+          },
+          {
+            "name": "Linux Programming (General)",
+            "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+            "test_type": "K"
+          },
+          {
+            "name": "Networking and Implementation (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "SHL Verify Interactive G+",
+            "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+            "test_type": "A"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": true
+      }
+    ]
+  },
+  "we're screening 500 entry-level contact centre agents. inbound calls, customer service focus. what should we use?": {
+    "filename": "C3.md",
+    "turns": [
+      {
+        "user": "We're screening 500 entry-level contact centre agents. Inbound calls, customer service focus. What should we use?",
+        "reply": "Before I shape the stack \u2014 what language are the calls in? That drives which spoken-language screen we use.",
+        "recommendations": [],
+        "end_of_conversation": false
+      },
+      {
+        "user": "English.",
+        "reply": "SVAR has four English variants in the catalog: US, UK, Australian, and Indian accent. The choice matters because the screen is calibrated for the accent your callers will hear. Which fits your operation?",
+        "recommendations": [],
+        "end_of_conversation": false
+      },
+      {
+        "user": "US.",
+        "reply": "For high-volume entry-level contact centre screening in English US, the right stack layers a spoken language screen, a simulation, and a behavioural fit component:",
+        "recommendations": [
+          {
+            "name": "SVAR Spoken English (US) (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Contact Center Call Simulation (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+            "test_type": "S"
+          },
+          {
+            "name": "Entry Level Customer Serv - Retail & Contact Center",
+            "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+            "test_type": "P,C"
+          },
+          {
+            "name": "Customer Service Phone Simulation",
+            "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+            "test_type": "B,S"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Is the Contact Center Call Simulation different from the Customer Service Phone Simulation?",
+        "reply": "Yes \u2014 distinct products. The Customer Service Phone Simulation is an older bundled solution (B, P, S) combining personality, behaviour, and simulation in one package. The Contact Center Call Simulation (New) is a standalone, newer simulation focused purely on the in-call interaction. Many clients use the new simulation for volume screening and the older solution for finalist-stage depth.",
+        "recommendations": [],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Perfect \u2014 new simulation for volume, old solution for finalists. Confirmed.",
+        "reply": "Good two-stage design.",
+        "recommendations": [
+          {
+            "name": "SVAR Spoken English (US) (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Contact Center Call Simulation (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+            "test_type": "S"
+          },
+          {
+            "name": "Entry Level Customer Serv - Retail & Contact Center",
+            "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+            "test_type": "P,C"
+          },
+          {
+            "name": "Customer Service Phone Simulation",
+            "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+            "test_type": "B,S"
+          }
+        ],
+        "end_of_conversation": true
+      }
+    ]
+  },
+  "hiring graduate financial analysts - final-year students, no work experience. we need numerical reasoning and a finance knowledge test.": {
+    "filename": "C4.md",
+    "turns": [
+      {
+        "user": "Hiring graduate financial analysts \u2014 final-year students, no work experience. We need numerical reasoning and a finance knowledge test.",
+        "reply": "For graduate-level financial analysts:",
+        "recommendations": [
+          {
+            "name": "SHL Verify Interactive \u2013 Numerical Reasoning",
+            "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+            "test_type": "A,S"
+          },
+          {
+            "name": "Financial Accounting (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Basic Statistics (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Good. Can you also add a situational judgement element \u2014 work-context decision making for graduates?",
+        "reply": "Added Graduate Scenarios \u2014 SHL's situational judgement test designed specifically for graduate-level candidates. The previous three items are unchanged:",
+        "recommendations": [
+          {
+            "name": "SHL Verify Interactive \u2013 Numerical Reasoning",
+            "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+            "test_type": "A,S"
+          },
+          {
+            "name": "Financial Accounting (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Basic Statistics (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Graduate Scenarios",
+            "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+            "test_type": "B"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "That covers it. Numerical + Graduate Scenarios as first filter, domain tests for shortlisted candidates.",
+        "reply": "Good two-stage design. That keeps the initial screen fast while reserving knowledge tests for candidates who've cleared the cognitive bar.",
+        "recommendations": [
+          {
+            "name": "SHL Verify Interactive \u2013 Numerical Reasoning",
+            "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+            "test_type": "A,S"
+          },
+          {
+            "name": "Financial Accounting (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Basic Statistics (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Graduate Scenarios",
+            "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+            "test_type": "B"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": true
+      }
+    ]
+  },
+  "as part of our restructuring and annual talent audit, we need to re-skill our sales organization. what solutions do you recommend?": {
+    "filename": "C5.md",
+    "turns": [
+      {
+        "user": "As part of our restructuring and annual talent audit, we need to re-skill our Sales organization. What solutions do you recommend?",
+        "reply": "For a compact audit-and-development stack: **self-reported skills** (GSA plus its development report for re-skilling initiative), **personality** via OPQ32r, a **sales-specific OPQ view** with optional motivators, and **Sales Transformation** for how reps show up in a digital-first selling model. First-line sales managers can follow the same spine and use the Sales Manager Sales Transformation report from the catalog when you split leader vs. rep reporting.",
+        "recommendations": [
+          {
+            "name": "Global Skills Assessment",
+            "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+            "test_type": "C, K"
+          },
+          {
+            "name": "Global Skills Development Report",
+            "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+            "test_type": "D"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          },
+          {
+            "name": "OPQ MQ Sales Report",
+            "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+            "test_type": "P"
+          },
+          {
+            "name": "Sales Transformation 2.0 - Individual Contributor",
+            "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "What\u2019s the difference between OPQ and OPQ MQ Sales Report?",
+        "reply": "**OPQ (OPQ32r)** is the underlying **personality questionnaire**: a broad, standard measure of workplace behavioural style used across roles and decisions (development, team fit, etc.).\n\n**OPQ MQ Sales Report** is a **reporting product**, not a different questionnaire. It summarizes OPQ results in a **sales-specific** way\u2014graphical and narrative emphasis on behaviours tied to sales success. You can **optionally** add the **Motivation Questionnaire (MQ)** so the same report also reflects **sales motivators and drives**; without MQ, you still get the sales-framed OPQ story.\n\nSo: one assessment instrument (OPQ32r) for personality; the Sales Report is how you **read** those results for sellers (and optionally enrich with MQ).",
+        "recommendations": [
+          {
+            "name": "Global Skills Assessment",
+            "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+            "test_type": "C, K"
+          },
+          {
+            "name": "Global Skills Development Report",
+            "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+            "test_type": "D"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          },
+          {
+            "name": "OPQ MQ Sales Report",
+            "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+            "test_type": "P"
+          },
+          {
+            "name": "Sales Transformation 2.0 - Individual Contributor",
+            "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Clear. We\u2019ll use OPQ for everyone and add MQ only where we want motivators in the Sales Report; keeping the five solutions as our audit stack.",
+        "reply": "That matches how the catalog is built: OPQ32r once, OPQ MQ Sales Report for sales-language feedback and optional MQ, plus GSA and its development report for skills and associated re-skilling, and Sales Transformation 2.0 for rep-level digital selling behaviours.",
+        "recommendations": [
+          {
+            "name": "Global Skills Assessment",
+            "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+            "test_type": "C, K"
+          },
+          {
+            "name": "Global Skills Development Report",
+            "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+            "test_type": "D"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          },
+          {
+            "name": "OPQ MQ Sales Report",
+            "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+            "test_type": "P"
+          },
+          {
+            "name": "Sales Transformation 2.0 - Individual Contributor",
+            "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": true
+      }
+    ]
+  },
+  "we're hiring plant operators for a chemical facility. safety is absolute top priority - reliability, procedure compliance, never cutting corners. what do you recommend?": {
+    "filename": "C6.md",
+    "turns": [
+      {
+        "user": "We're hiring plant operators for a chemical facility. Safety is absolute top priority \u2014 reliability, procedure compliance, never cutting corners. What do you recommend?",
+        "reply": "For a safety-critical frontline role where dependability and rule compliance are the primary concern, the assessment focus must be on personality predictors of safety behaviour \u2014 not just knowledge tests. A knowledge test tells you what someone knows about safety; a personality instrument predicts whether they'll actually follow through.",
+        "recommendations": [
+          {
+            "name": "Dependability and Safety Instrument (DSI)",
+            "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+            "test_type": "P"
+          },
+          {
+            "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+            "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+            "test_type": "P"
+          },
+          {
+            "name": "Workplace Health and Safety (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+            "test_type": "K"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "What's the difference between the DSI and the Safety & Dependability 8.0?",
+        "reply": "Both measure safety-relevant personality, but at different levels. The DSI is a standalone instrument measuring integrity, reliability, and safety attitudes \u2014 used across sectors. The Manufacturing & Industrial Safety & Dependability 8.0 is a sector-specific bundled solution with norms calibrated to manufacturing and industrial workforces. If your facility is industrial-classified, the 8.0 gives you industry norms. If you want a general standalone instrument, the DSI is the right choice.",
+        "recommendations": [],
+        "end_of_conversation": false
+      },
+      {
+        "user": "We're industrial. The 8.0 bundle is the right fit. Confirmed.",
+        "reply": "Good choice for an industrial context. Shortlist confirmed.",
+        "recommendations": [
+          {
+            "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+            "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+            "test_type": "P"
+          },
+          {
+            "name": "Workplace Health and Safety (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+            "test_type": "K"
+          }
+        ],
+        "end_of_conversation": true
+      }
+    ]
+  },
+  "we're hiring bilingual healthcare admin staff in south texas - they handle patient records and need to be assessed in spanish. hipaa compliance is critical. what assessments work?": {
+    "filename": "C7.md",
+    "turns": [
+      {
+        "user": "We're hiring bilingual healthcare admin staff in South Texas \u2014 they handle patient records and need to be assessed in Spanish. HIPAA compliance is critical. What assessments work?",
+        "reply": "There's a real catalog constraint here: the role-specific knowledge tests for healthcare admin \u2014 HIPAA (Security), Medical Terminology, Microsoft Word \u2014 are English-only. The personality measures (OPQ32r, DSI) do support Latin American Spanish.\n\nTwo ways to run this:\n(a) Hybrid: knowledge tests in English, personality in Spanish. Workable if your candidates are functionally bilingual at a working level for the English knowledge tests.\n(b) Personality-only in Spanish, and assess HIPAA/medical terminology through your own structured interview. Trades off measurement rigour for language fit.\n\nWhich fits your candidate pool better?",
+        "recommendations": [],
+        "end_of_conversation": false
+      },
+      {
+        "user": "They're functionally bilingual \u2014 English fluent for written work. Go with the hybrid.",
+        "reply": "For a trust-sensitive role with patient-record access, two complementary personality measures: DSI focuses specifically on dependability and safety-critical reliability \u2014 directly relevant to HIPAA-protected information handling. OPQ32r gives a broader workplace-behaviour profile. Both run in Latin American Spanish.\n\nFull hybrid battery:",
+        "recommendations": [
+          {
+            "name": "HIPAA (Security)",
+            "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+            "test_type": "K"
+          },
+          {
+            "name": "Medical Terminology (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Microsoft Word 365 - Essentials (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+            "test_type": "K,S"
+          },
+          {
+            "name": "Dependability and Safety Instrument (DSI)",
+            "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+            "test_type": "P"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Are we legally required under HIPAA to test all staff who touch patient records? And does this SHL test satisfy that requirement?",
+        "reply": "Those are legal compliance questions outside what I can advise on \u2014 I can help you select assessments, but not interpret regulatory obligations or whether a specific test satisfies a legal requirement. Your legal or compliance team is the right resource for that.\n\nWhat I can confirm: HIPAA (Security) measures knowledge of HIPAA security provisions. Whether using it fulfils a particular regulatory obligation is a question for counsel.",
+        "recommendations": [],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Understood. Keep the shortlist as-is.",
+        "reply": "Confirmed. Hybrid battery as above \u2014 knowledge tests in English, DSI and OPQ32r in Latin American Spanish.",
+        "recommendations": [
+          {
+            "name": "HIPAA (Security)",
+            "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+            "test_type": "K"
+          },
+          {
+            "name": "Medical Terminology (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Microsoft Word 365 - Essentials (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+            "test_type": "K,S"
+          },
+          {
+            "name": "Dependability and Safety Instrument (DSI)",
+            "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+            "test_type": "P"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": true
+      }
+    ]
+  },
+  "i need to quickly screen admin assistants for excel and word daily.": {
+    "filename": "C8.md",
+    "turns": [
+      {
+        "user": "I need to quickly screen admin assistants for Excel and Word daily.",
+        "reply": "For a quick knowledge check, the knowledge-only variants are the right fit \u2014 they test conceptual understanding.\nWe also have end-to-end simulations to test these capabilties but I have excluded them due to the time constraint.\n\nI've also included OPQ32r as a default personality measure \u2014 admin-assistant hires benefit from a behavioural fit signal beyond pure tool knowledge. Say the word if you'd prefer to skip personality.",
+        "recommendations": [
+          {
+            "name": "MS Excel (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "MS Word (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "In that case, I am OK with adding a simulation - we want to capture the capabilties.",
+        "reply": "Understood.Here's the updated list:",
+        "recommendations": [
+          {
+            "name": "Microsoft Excel 365 (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+            "test_type": "K,S"
+          },
+          {
+            "name": "Microsoft Word 365 (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+            "test_type": "K,S"
+          },
+          {
+            "name": "MS Excel (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "MS Word (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "That's good.",
+        "reply": "Confirmed.",
+        "recommendations": [
+          {
+            "name": "Microsoft Excel 365 (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+            "test_type": "K,S"
+          },
+          {
+            "name": "Microsoft Word 365 (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+            "test_type": "K,S"
+          },
+          {
+            "name": "MS Excel (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "MS Word (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": true
+      }
+    ]
+  },
+  "here's the jd for an engineer we need to fill. can you recommend an assessment battery?": {
+    "filename": "C9.md",
+    "turns": [
+      {
+        "user": "Here's the JD for an engineer we need to fill. Can you recommend an assessment battery?",
+        "reply": "That JD spans seven distinct areas \u2014 Core Java, Spring, REST APIs, Angular, SQL, AWS, and Docker. The catalog has dedicated knowledge tests for each. A focused recommendation needs to know what the candidate will actually own. To narrow this down:\n\nIs this a backend-leaning role (Java / Spring / SQL heavy) or a frontend-heavy role or a true balanced full-stack role with significant Angular work?",
+        "recommendations": [],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Backend-leaning. Day-one priorities are Core Java and Spring; SQL is constant. Angular is occasional \u2014 they'd review frontend PRs but not own features.",
+        "reply": "Understood \u2014 Java, Spring, and SQL as primary; Angular as secondary review-only. One more question before I shape the battery: is the seniority closer to a senior IC (deep backend ownership, leads design on their service) or a tech lead (sets architecture across services, reviews other engineers' work)? That changes whether we lean on a knowledge-heavy battery or add a leadership/scenarios layer.",
+        "recommendations": [],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Senior IC. They lead design on their own services but don't manage other engineers directly.",
+        "reply": "For a senior IC backend engineer with Java / Spring / SQL primary and Angular secondary, here's a first shortlist focused on what they'll actually own:",
+        "recommendations": [
+          {
+            "name": "Core Java (Advanced Level) (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Spring (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "RESTful Web Services (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "SQL (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "SHL Verify Interactive G+",
+            "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+            "test_type": "A"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Add AWS and Docker. Drop REST \u2014 the API design signal will already come through in Spring and the live interview.",
+        "reply": "Updated \u2014 REST out, AWS and Docker in:",
+        "recommendations": [
+          {
+            "name": "Core Java (Advanced Level) (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Spring (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "SQL (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Amazon Web Services (AWS) Development (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Docker (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "SHL Verify Interactive G+",
+            "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+            "test_type": "A"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "On Java \u2014 they'd be working on existing services, not greenfield. Is the Advanced level the right pick?",
+        "reply": "Yes. Advanced covers concurrency, JVM internals, performance tuning, and the kind of design-level Java that comes up when extending production microservices \u2014 which matches \"owns end-to-end microservice delivery\". The Entry-Level test is calibrated for graduate hires reading and modifying existing code, which undershoots a senior IC. Keeping Advanced.",
+        "recommendations": [
+          {
+            "name": "Core Java (Advanced Level) (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Spring (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "SQL (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Amazon Web Services (AWS) Development (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Docker (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "SHL Verify Interactive G+",
+            "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+            "test_type": "A"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Do we really need Verify G+ on top of all the technical tests? Feels redundant.",
+        "reply": "Not redundant \u2014 they measure different things. The technical tests confirm the candidate already knows the stack. Verify G+ measures general reasoning ability, which predicts how quickly they'll learn parts of the stack they haven't seen and adapt when production throws something unfamiliar at them. For a senior IC making architectural calls, that signal matters. That said, if you want a leaner shortlist, dropping Verify G+ is a valid tradeoff and the battery still stands. Your call.",
+        "recommendations": [
+          {
+            "name": "Core Java (Advanced Level) (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Spring (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "SQL (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Amazon Web Services (AWS) Development (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Docker (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "SHL Verify Interactive G+",
+            "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+            "test_type": "A"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": false
+      },
+      {
+        "user": "Keep Verify G+. Locking it in.",
+        "reply": "Final battery \u2014 Java Advanced, Spring, SQL, AWS, and Docker as the technical core; Verify G+ for reasoning; OPQ32r for personality fit on a senior IC who'll mentor and contribute to architecture.",
+        "recommendations": [
+          {
+            "name": "Core Java (Advanced Level) (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Spring (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "SQL (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Amazon Web Services (AWS) Development (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "Docker (New)",
+            "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+            "test_type": "K"
+          },
+          {
+            "name": "SHL Verify Interactive G+",
+            "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+            "test_type": "A"
+          },
+          {
+            "name": "Occupational Personality Questionnaire OPQ32r",
+            "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+            "test_type": "P"
+          }
+        ],
+        "end_of_conversation": true
+      }
+    ]
+  }
+}
